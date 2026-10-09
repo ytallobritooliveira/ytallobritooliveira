@@ -36,5 +36,5 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 ---
 
 ### 📫 Como me encontrar
-- 📧 Email: [ytallobrito2010@gmail.com]
-- 💼 LinkedIn: []
+- 📧 Email: ytallobrito2010@gmail.com
+- 💼 LinkedIn: 
