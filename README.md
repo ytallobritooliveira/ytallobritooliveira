@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Ytallo! 👋
 
 ### 👨‍🏫 Sobre Mim
 - 🎓 Sou aluno do curso de **Desenvolvimento de Sistemas** na instituição **ETEC Jd. Ângela**.
@@ -31,7 +31,7 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[ytallobritooliveira]&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ytallobritooliveira&show_icons=true&theme=dracula)
 
 ---
 
