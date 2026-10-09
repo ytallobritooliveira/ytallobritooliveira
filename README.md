@@ -25,7 +25,7 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 ### 📂 Meus Principais Projetos
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [Nome do Projeto 1](link-para-o-repositorio) | Breve descrição do que o sistema faz. | HTML, CSS, JS |
+| [Sistema de Cadastro](https://github.com/ytallobritooliveira/Sistema-de-Cadastro-Alunos) | Cadastra informações básicas de um aluno. | HTML, CSS, JS |
 
 
 ---
